@@ -1,1 +1,1 @@
-single-threaded process program
+Single-threaded process application
