@@ -1,1 +1,1 @@
-client-server application & Parallel processing
+Client-server application & Parallel processing
