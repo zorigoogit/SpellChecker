@@ -1,1 +1,1 @@
-client-server application
+Client-Server application
